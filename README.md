@@ -7,6 +7,7 @@ VaultDocs is a Spring Boot application designed to handle document ingestion and
 * **Document Ingestion:** Upload and index documents seamlessly using the `IngestionService`.
 * **Intelligent Q&A:** Query your indexed documents using natural language questions or specific operational commands via the `QnAService`.
 * **RESTful API:** Easy-to-use endpoints for seamless integration with front-end clients or other external services.
+* **Moderation Tool:** Built-in content moderation to analyze and filter queries and document content, ensuring safe, relevant, and compliant interactions.
 
 ## Prerequisites
 
